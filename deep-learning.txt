@@ -1,0 +1,14 @@
+Matematika:
+Pelajari kalkulus, aljabar linear, dan statistik.
+
+Programming:
+Pelajari bahasa pemrograman seperti Python, R, dan MATLAB.
+
+Machine Learning:
+Pelajari teknik Machine Learning seperti regression, classification, decision trees, dan neural networks.
+
+Neural Networks:
+Pelajari cara membangun dan melatih neural networks, seperti feedforward networks, convolutional networks, dan recurrent networks.
+
+Deep Learning Frameworks:
+Pelajari framework deep learning seperti TensorFlow, PyTorch, dan Keras.
