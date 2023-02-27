@@ -1,6 +1,3 @@
-Matematika:
-Pelajari kalkulus, aljabar linear, dan statistik.
-
 Programming:
 Pelajari bahasa pemrograman seperti Python, R, dan MATLAB.
 
@@ -9,3 +6,6 @@ Pelajari teknik preproses data seperti cleaning data, feature engineering, dan d
 
 Supervised Learning:
 Pelajari teknik supervised learning seperti regression, classification, decision trees, dan neural networks.
+
+Unsupervised Learning:
+Pelajari teknik unsupervised learning seperti clustering, dimensionality reduction, dan association rule mining.
