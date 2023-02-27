@@ -1,0 +1,8 @@
+Matematika:
+Pelajari kalkulus, aljabar linear, dan statistik.
+
+Programming:
+Pelajari bahasa pemrograman seperti Python, R, dan MATLAB.
+
+Machine Learning:
+Pelajari teknik Machine Learning seperti regression, classification, decision trees, dan neural networks.
