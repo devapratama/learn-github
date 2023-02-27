@@ -1,0 +1,5 @@
+Matematika:
+Pelajari kalkulus, aljabar linear, dan statistik.
+
+Programming:
+Pelajari bahasa pemrograman seperti Python, R, dan MATLAB.
