@@ -12,3 +12,9 @@ Pelajari cara membangun dan melatih neural networks, seperti feedforward network
 
 Deep Learning Frameworks:
 Pelajari framework deep learning seperti TensorFlow, PyTorch, dan Keras.
+
+Computer Vision:
+Pelajari teknik deep learning di bidang computer vision, seperti object detection, image segmentation, dan face recognition.
+
+Natural Language Processing:
+Pelajari teknik deep learning di bidang natural language processing, seperti sentiment analysis, named entity recognition, dan machine translation.
