@@ -18,3 +18,6 @@ Pelajari teknik deep learning di bidang computer vision, seperti object detectio
 
 Natural Language Processing:
 Pelajari teknik deep learning di bidang natural language processing, seperti sentiment analysis, named entity recognition, dan machine translation.
+
+Generative Models:
+Pelajari teknik generative models seperti generative adversarial networks (GANs) dan variational autoencoders (VAEs).
